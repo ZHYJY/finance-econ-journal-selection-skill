@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "YYYY-MM-DD",
+  "timezone": "America/Chicago",
+  "paper_profile": {
+    "question": "一句话研究问题",
+    "mechanism": "识别到的经济机制或理论渠道",
+    "contribution_type": "理论 / 实证 / 方法 / 数据 / 政策评估",
+    "readers": ["主读者", "次读者"],
+    "fields": ["finance", "economics/labor"],
+    "jel_codes": ["G12", "G32"],
+    "data_and_region": "数据类型、样本期、地区",
+    "maturity": "working paper / 完整稿 / 仅有摘要",
+    "rejection_history": []
+  },
+  "constraints": {
+    "route": "cn / en / both",
+    "institutional_list": {
+      "name": "院校或单位目录名称",
+      "version": "版次或年份",
+      "applies_to": "适用人群或毕业年度"
+    },
+    "deadline": {
+      "event": "submission / acceptance / online_first / issue",
+      "date": "YYYY-MM-DD",
+      "is_hard": true
+    },
+    "budget": {"currency": "CNY", "amount": null, "oa_required": false},
+    "excluded_venues": [],
+    "notes": "导师偏好、语言要求等其他约束"
+  },
+  "capability_snapshot": {
+    "checked_at": "YYYY-MM-DD",
+    "sources_available": ["官网", "数据库", "第三方目录"],
+    "sources_unavailable": [],
+    "evidence_level": "官网已核实 / 第三方待核实 / 主观推断"
+  },
+  "candidates": [
+    {
+      "name": "Journal of Finance",
+      "id": "journal-of-finance",
+      "role": "冲刺",
+      "gate_status": "pass",
+      "gate_items": {
+        "scope": "通过",
+        "article_type": "通过",
+        "language": "通过",
+        "institutional_recognition": "通过",
+        "budget": "通过",
+        "data_policy": "未知"
+      },
+      "ratings": {
+        "读者适配": "强",
+        "贡献与定位": "中",
+        "方法与证据": "中",
+        "硬约束满足度": "中",
+        "改稿成本": "弱"
+      },
+      "precedents": [
+        {"title": "先例题名", "year": 2024, "doi": "10.xxxx/xxxx", "url": "https://doi.org/10.xxxx/xxxx"}
+      ],
+      "why_fit": "为什么适配，必须指向 scope 或近期论文",
+      "max_obstacle": "最大障碍",
+      "evidence": [
+        {"claim": "当前 scope 包含本主题", "value": "见 submissions 页面", "url": "https://...", "source_type": "官网", "checked_at": "YYYY-MM-DD", "status": "官网已核实"}
+      ],
+      "notes": ""
+    }
+  ],
+  "excluded": [
+    {"name": "刊名", "reason": "硬门槛不通过的具体依据", "fixable": false, "url": "https://..."}
+  ],
+  "unknowns": [
+    {"item": "缺失的证据项", "why_missing": "无法访问/无权限/需作者确认", "how_to_verify": "下一步动作"}
+  ],
+  "route": [
+    {
+      "step": 1,
+      "venue": "刊名",
+      "trigger": "什么条件下进入下一步",
+      "changes_required": "改稿动作",
+      "budget_delta": "费用变化",
+      "time_risk": "时间风险说明",
+      "latest_decision_date": "YYYY-MM-DD"
+    }
+  ],
+  "disclaimer": "加权评分为决策辅助，不是录用概率；评级体系之间不可换算。"
+}

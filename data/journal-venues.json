@@ -1,0 +1,2634 @@
+{
+  "schema_version": "2.1",
+  "generated_at": "2026-11-20",
+  "provenance": {
+    "primary": {
+      "repository": "brycewang-stanford/Awesome-Journal-Skills",
+      "file": "catalog.json",
+      "url": "https://github.com/brycewang-stanford/Awesome-Journal-Skills/blob/main/catalog.json",
+      "license": "MIT (c) 2026 Bryce Wang",
+      "upstream_venues": 744
+    },
+    "curated": "手补条目仅含刊名、别名与学科归属，不含任何评级、费用或计量数据；刊名与主办信息须按期刊官网核对。",
+    "aliases": "aliases 用于中文检索补齐：部分中文刊在上游以英文官方刊名登记，别名由本仓库按通行中译补齐，投稿前须按官网核对。"
+  },
+  "disclaimer": "本文件只用于召回候选、统一中英文刊名口径与去重，不构成评级权威。tier_bucket 与 labels 来自第三方目录，标签不完整且非官方等级；影响因子、分区、APC、审稿周期、页数限制等易变数据一律实时核实，不得直接引用本文件。注意 Journal of Financial Research 在此指《金融研究》，与美国同名刊并非同一本，须用 ISSN 区分。",
+  "coverage": {
+    "disciplines": [
+      "finance",
+      "economics",
+      "econometrics/methods",
+      "management",
+      "accounting",
+      "public-admin",
+      "public-policy",
+      "marketing",
+      "operations",
+      "entrepreneurship",
+      "international-business",
+      "information-systems",
+      "law-and-economics"
+    ],
+    "china_all": "yes"
+  },
+  "venue_count": 213,
+  "venues": [
+    {
+      "id": "accounting-and-economics-research",
+      "name": "会计与经济研究",
+      "aliases": [],
+      "discipline": "accounting",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "accounting-organizations-and-society",
+      "name": "Accounting Organizations and Society",
+      "aliases": [],
+      "discipline": "accounting",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "FT50"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "accounting-research",
+      "name": "Accounting Research",
+      "aliases": [
+        "会计研究"
+      ],
+      "discipline": "accounting",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "JCR/CAS Q1-tier"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "china-accounting-review",
+      "name": "中国会计评论",
+      "aliases": [],
+      "discipline": "accounting",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "contemporary-accounting-research",
+      "name": "Contemporary Accounting Research",
+      "aliases": [],
+      "discipline": "accounting",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "FT50"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-accounting-and-economics",
+      "name": "Journal of Accounting and Economics",
+      "aliases": [],
+      "discipline": "accounting",
+      "region": "international",
+      "tier_bucket": "top-3 accounting",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-accounting-research",
+      "name": "Journal of Accounting Research",
+      "aliases": [],
+      "discipline": "accounting",
+      "region": "international",
+      "tier_bucket": "top-3 accounting",
+      "labels": [
+        "FT50"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "review-of-accounting-studies",
+      "name": "Review of Accounting Studies",
+      "aliases": [],
+      "discipline": "accounting",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "the-accounting-review",
+      "name": "The Accounting Review",
+      "aliases": [],
+      "discipline": "accounting",
+      "region": "international",
+      "tier_bucket": "top-3 accounting",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "econometric-theory",
+      "name": "Econometric Theory",
+      "aliases": [],
+      "discipline": "econometrics/methods",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "theory",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "econometrica",
+      "name": "Econometrica",
+      "aliases": [],
+      "discipline": "econometrics/methods",
+      "region": "international",
+      "tier_bucket": "top-5 econ",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-applied-econometrics",
+      "name": "Journal of Applied Econometrics",
+      "aliases": [],
+      "discipline": "econometrics/methods",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-business-and-economic-statistics",
+      "name": "Journal of Business and Economic Statistics",
+      "aliases": [],
+      "discipline": "econometrics/methods",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-econometrics",
+      "name": "Journal of Econometrics",
+      "aliases": [],
+      "discipline": "econometrics/methods",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-quantitative-and-technological-economics",
+      "name": "Journal of Quantitative and Technological Economics",
+      "aliases": [
+        "数量经济技术经济研究"
+      ],
+      "discipline": "econometrics/methods",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "the-econometrics-journal",
+      "name": "The Econometrics Journal",
+      "aliases": [],
+      "discipline": "econometrics/methods",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "aer-insights",
+      "name": "AER Insights",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "annual-review-of-economics",
+      "name": "Annual Review of Economics",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "review",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "china-economic-quarterly",
+      "name": "China Economic Quarterly",
+      "aliases": [
+        "经济学(季刊)"
+      ],
+      "discipline": "economics",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "china-industrial-economics",
+      "name": "China Industrial Economics",
+      "aliases": [
+        "中国工业经济"
+      ],
+      "discipline": "economics",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "economic-perspectives",
+      "name": "经济学动态",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "economic-research-journal",
+      "name": "Economic Research Journal",
+      "aliases": [
+        "经济研究"
+      ],
+      "discipline": "economics",
+      "region": "china",
+      "tier_bucket": "中文经济学顶刊",
+      "labels": [
+        "CSSCI",
+        "CSCD",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "european-economic-review",
+      "name": "European Economic Review",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "international-economic-review",
+      "name": "International Economic Review",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "international-economic-review-cn",
+      "name": "国际经济评论",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-economic-literature",
+      "name": "Journal of Economic Literature",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "review",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-economic-perspectives",
+      "name": "Journal of Economic Perspectives",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "review/expository",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-political-economy",
+      "name": "Journal of Political Economy",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "top-5 econ",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-the-european-economic-association",
+      "name": "Journal of the European Economic Association",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "modern-economic-research",
+      "name": "现代经济探讨",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "quantitative-economics",
+      "name": "Quantitative Economics",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "quarterly-journal-of-economics",
+      "name": "Quarterly Journal of Economics",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "top-5 econ",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "review-of-economic-studies",
+      "name": "Review of Economic Studies",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "top-5 econ",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "review-of-political-economy",
+      "name": "政治经济学评论",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "the-economic-journal",
+      "name": "The Economic Journal",
+      "aliases": [],
+      "discipline": "economics",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "rand-journal-of-economics",
+      "name": "RAND Journal of Economics",
+      "aliases": [],
+      "discipline": "economics/IO",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "china-rural-economy",
+      "name": "China Rural Economy",
+      "aliases": [
+        "中国农村经济"
+      ],
+      "discipline": "economics/agricultural",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "china-rural-survey",
+      "name": "中国农村观察",
+      "aliases": [],
+      "discipline": "economics/agricultural",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "rural-economy",
+      "name": "农村经济",
+      "aliases": [],
+      "discipline": "economics/agricultural",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "aej-applied-economics",
+      "name": "AEJ Applied Economics",
+      "aliases": [],
+      "discipline": "economics/applied",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "review-of-economics-and-statistics",
+      "name": "Review of Economics and Statistics",
+      "aliases": [],
+      "discipline": "economics/applied",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-economic-behavior-and-organization",
+      "name": "Journal of Economic Behavior and Organization",
+      "aliases": [],
+      "discipline": "economics/behavioral",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-risk-and-uncertainty",
+      "name": "Journal of Risk and Uncertainty",
+      "aliases": [],
+      "discipline": "economics/decision",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-development-economics",
+      "name": "Journal of Development Economics",
+      "aliases": [],
+      "discipline": "economics/development",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "world-bank-economic-review",
+      "name": "World Bank Economic Review",
+      "aliases": [],
+      "discipline": "economics/development",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-environmental-economics-and-management",
+      "name": "Journal of Environmental Economics and Management",
+      "aliases": [],
+      "discipline": "economics/environment",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "experimental-economics",
+      "name": "Experimental Economics",
+      "aliases": [],
+      "discipline": "economics/experimental",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-finance-and-economics",
+      "name": "Journal of Finance and Economics",
+      "aliases": [
+        "财经研究"
+      ],
+      "discipline": "economics/finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "games-and-economic-behavior",
+      "name": "Games and Economic Behavior",
+      "aliases": [],
+      "discipline": "economics/game-theory",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "interpretive/theory",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-economic-geography",
+      "name": "Journal of Economic Geography",
+      "aliases": [],
+      "discipline": "economics/geography",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-economic-growth",
+      "name": "Journal of Economic Growth",
+      "aliases": [],
+      "discipline": "economics/growth",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-health-economics",
+      "name": "Journal of Health Economics",
+      "aliases": [],
+      "discipline": "economics/health",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "imf-economic-review",
+      "name": "IMF Economic Review",
+      "aliases": [],
+      "discipline": "economics/international",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "international-economics-and-trade-research",
+      "name": "国际经贸探索",
+      "aliases": [],
+      "discipline": "economics/international",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-international-economics",
+      "name": "Journal of International Economics",
+      "aliases": [],
+      "discipline": "economics/international",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-world-economy",
+      "name": "Journal of World Economy",
+      "aliases": [
+        "世界经济"
+      ],
+      "discipline": "economics/international",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-human-resources",
+      "name": "Journal of Human Resources",
+      "aliases": [],
+      "discipline": "economics/labor",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-labor-economics",
+      "name": "Journal of Labor Economics",
+      "aliases": [],
+      "discipline": "economics/labor",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "studies-in-labor-economics",
+      "name": "劳动经济研究",
+      "aliases": [],
+      "discipline": "economics/labor",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "aej-macroeconomics",
+      "name": "AEJ Macroeconomics",
+      "aliases": [],
+      "discipline": "economics/macro",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-monetary-economics",
+      "name": "Journal of Monetary Economics",
+      "aliases": [],
+      "discipline": "economics/macro",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "review-of-economic-dynamics",
+      "name": "Review of Economic Dynamics",
+      "aliases": [],
+      "discipline": "economics/macro",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "aej-microeconomics",
+      "name": "AEJ Microeconomics",
+      "aliases": [],
+      "discipline": "economics/micro",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "aej-economic-policy",
+      "name": "AEJ Economic Policy",
+      "aliases": [],
+      "discipline": "economics/policy",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "economic-policy",
+      "name": "Economic Policy",
+      "aliases": [],
+      "discipline": "economics/policy",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "finance-and-trade-economics",
+      "name": "Finance and Trade Economics",
+      "aliases": [],
+      "discipline": "economics/public",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-public-economics",
+      "name": "Journal of Public Economics",
+      "aliases": [],
+      "discipline": "economics/public",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "economic-theory-and-business-management",
+      "name": "经济理论与经济管理",
+      "aliases": [],
+      "discipline": "economics/theory",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "interpretive/theory",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-economic-theory",
+      "name": "Journal of Economic Theory",
+      "aliases": [],
+      "discipline": "economics/theory",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "JCR/CAS Q1-tier"
+      ],
+      "lane": "theory",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-urban-economics",
+      "name": "Journal of Urban Economics",
+      "aliases": [],
+      "discipline": "economics/urban",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-physical-education",
+      "name": "体育学刊",
+      "aliases": [],
+      "discipline": "education",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-xian-physical-education-university",
+      "name": "西安体育学院学报",
+      "aliases": [],
+      "discipline": "education",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "entrepreneurship-theory-and-practice",
+      "name": "Entrepreneurship Theory and Practice",
+      "aliases": [],
+      "discipline": "entrepreneurship",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-business-venturing",
+      "name": "Journal of Business Venturing",
+      "aliases": [],
+      "discipline": "entrepreneurship",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "FT50"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "chinese-review-of-financial-studies",
+      "name": "金融评论",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "contemporary-finance-and-economics",
+      "name": "当代财经",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "finance-and-economics",
+      "name": "财经科学",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "financial-cryptography-and-data-security",
+      "name": "Financial Cryptography and Data Security",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "financial-management",
+      "name": "Financial Management",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "financial-regulation-research",
+      "name": "金融监管研究",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-banking-and-finance",
+      "name": "Journal of Banking and Finance",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-central-university-of-finance-and-economics",
+      "name": "中央财经大学学报",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-corporate-finance",
+      "name": "Journal of Corporate Finance",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-empirical-finance",
+      "name": "Journal of Empirical Finance",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-finance",
+      "name": "Journal of Finance",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "top-3 finance",
+      "labels": [
+        "SSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-financial-and-quantitative-analysis",
+      "name": "Journal of Financial and Quantitative Analysis",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-financial-economics",
+      "name": "Journal of Financial Economics",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "top-3 finance",
+      "labels": [
+        "SSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-financial-intermediation",
+      "name": "Journal of Financial Intermediation",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "top-5"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-financial-markets",
+      "name": "Journal of Financial Markets",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-financial-research",
+      "name": "Journal of Financial Research",
+      "aliases": [
+        "金融研究"
+      ],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-guangdong-university-of-finance-and-economics",
+      "name": "广东财经大学学报",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-international-money-and-finance",
+      "name": "Journal of International Money and Finance",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-jiangxi-university-of-finance-and-economics",
+      "name": "江西财经大学学报",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-money-credit-and-banking",
+      "name": "Journal of Money Credit and Banking",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-shanghai-university-of-finance-and-economics",
+      "name": "上海财经大学学报（哲学社会科学版）",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-shanxi-university-of-finance-and-economics",
+      "name": "山西财经大学学报",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "mathematical-finance",
+      "name": "Mathematical Finance",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "JCR/CAS Q1-tier"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "modern-finance-and-economics",
+      "name": "现代财经（天津财经大学学报）",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "modern-financial-research",
+      "name": "现代金融研究",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "public-finance-research",
+      "name": "财政研究",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "research-on-financial-and-economic-issues",
+      "name": "财经问题研究",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "review-of-finance",
+      "name": "Review of Finance",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "review-of-financial-studies",
+      "name": "Review of Financial Studies",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "international",
+      "tier_bucket": "top-3 finance",
+      "labels": [
+        "SSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "studies-of-financial-economics",
+      "name": "金融经济学研究",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "studies-of-international-finance",
+      "name": "国际金融研究",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "information-systems-research",
+      "name": "Information Systems Research",
+      "aliases": [],
+      "discipline": "information-systems",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-management-information-systems",
+      "name": "Journal of Management Information Systems",
+      "aliases": [],
+      "discipline": "information-systems",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-the-association-for-information-systems",
+      "name": "Journal of the Association for Information Systems",
+      "aliases": [],
+      "discipline": "information-systems",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "mis-quarterly",
+      "name": "MIS Quarterly",
+      "aliases": [],
+      "discipline": "information-systems",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-international-business-studies",
+      "name": "Journal of International Business Studies",
+      "aliases": [],
+      "discipline": "international-business",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "FT50"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-law-and-economics",
+      "name": "Journal of Law and Economics",
+      "aliases": [],
+      "discipline": "law-and-economics",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-law-economics-and-organization",
+      "name": "Journal of Law Economics and Organization",
+      "aliases": [],
+      "discipline": "law-and-economics",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "academy-of-management-annals",
+      "name": "Academy of Management Annals",
+      "aliases": [],
+      "discipline": "management",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "review",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "academy-of-management-journal",
+      "name": "Academy of Management Journal",
+      "aliases": [],
+      "discipline": "management",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [
+        "FT50"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "academy-of-management-review",
+      "name": "Academy of Management Review",
+      "aliases": [],
+      "discipline": "management",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [],
+      "lane": "theory",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "administrative-science-quarterly",
+      "name": "Administrative Science Quarterly",
+      "aliases": [],
+      "discipline": "management",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [
+        "SSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "human-relations",
+      "name": "Human Relations",
+      "aliases": [],
+      "discipline": "management",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "human-resource-management",
+      "name": "Human Resource Management",
+      "aliases": [],
+      "discipline": "management",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-management",
+      "name": "Journal of Management",
+      "aliases": [],
+      "discipline": "management",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-management-studies",
+      "name": "Journal of Management Studies",
+      "aliases": [],
+      "discipline": "management",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-management-world",
+      "name": "Journal of Management World",
+      "aliases": [
+        "管理世界"
+      ],
+      "discipline": "management",
+      "region": "china",
+      "tier_bucket": "中文管理顶刊",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "management-review",
+      "name": "管理评论",
+      "aliases": [],
+      "discipline": "management",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "nankai-business-review",
+      "name": "Nankai Business Review",
+      "aliases": [
+        "南开管理评论"
+      ],
+      "discipline": "management",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "organization-and-management",
+      "name": "组织与管理",
+      "aliases": [],
+      "discipline": "management",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "organization-science",
+      "name": "Organization Science",
+      "aliases": [],
+      "discipline": "management",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "organization-studies",
+      "name": "Organization Studies",
+      "aliases": [],
+      "discipline": "management",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "FT50"
+      ],
+      "lane": "qualitative/mixed",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "strategic-management-journal",
+      "name": "Strategic Management Journal",
+      "aliases": [],
+      "discipline": "management",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [
+        "SSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "chinese-journal-of-management-science",
+      "name": "Chinese Journal of Management Science",
+      "aliases": [],
+      "discipline": "management/OR",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-management-sciences-in-china",
+      "name": "Journal of Management Sciences in China",
+      "aliases": [
+        "管理科学学报"
+      ],
+      "discipline": "management/OR",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-systems-engineering",
+      "name": "Journal of Systems Engineering",
+      "aliases": [],
+      "discipline": "management/OR",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-consumer-psychology",
+      "name": "Journal of Consumer Psychology",
+      "aliases": [],
+      "discipline": "marketing",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-consumer-research",
+      "name": "Journal of Consumer Research",
+      "aliases": [],
+      "discipline": "marketing",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-international-marketing",
+      "name": "Journal of International Marketing",
+      "aliases": [],
+      "discipline": "marketing",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-marketing",
+      "name": "Journal of Marketing",
+      "aliases": [],
+      "discipline": "marketing",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-marketing-research",
+      "name": "Journal of Marketing Research",
+      "aliases": [],
+      "discipline": "marketing",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [
+        "FT50"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-public-policy-and-marketing",
+      "name": "Journal of Public Policy and Marketing",
+      "aliases": [],
+      "discipline": "marketing",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-the-academy-of-marketing-science",
+      "name": "Journal of the Academy of Marketing Science",
+      "aliases": [],
+      "discipline": "marketing",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "marketing-science",
+      "name": "Marketing Science",
+      "aliases": [],
+      "discipline": "marketing",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "frontiers-of-engineering-management-science-and-technology",
+      "name": "工程管理科技前沿",
+      "aliases": [],
+      "discipline": "operations",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "integration-of-constraint-programming-artificial-intelligence-and-operations-research",
+      "name": "Integration of Constraint Programming, Artificial Intelligence, and Operations Research",
+      "aliases": [],
+      "discipline": "operations",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-operations-management",
+      "name": "Journal of Operations Management",
+      "aliases": [],
+      "discipline": "operations",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "FT50"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "management-science",
+      "name": "Management Science",
+      "aliases": [],
+      "discipline": "operations",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [
+        "FT50"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "management-science-cn",
+      "name": "管理科学",
+      "aliases": [],
+      "discipline": "operations",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "manufacturing-and-service-operations-management",
+      "name": "Manufacturing and Service Operations Management",
+      "aliases": [],
+      "discipline": "operations",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "operations-research",
+      "name": "Operations Research",
+      "aliases": [],
+      "discipline": "operations",
+      "region": "international",
+      "tier_bucket": "FT50 / UTD24",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "production-and-operations-management",
+      "name": "Production and Operations Management",
+      "aliases": [],
+      "discipline": "operations",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "informs-journal-on-computing",
+      "name": "INFORMS Journal on Computing",
+      "aliases": [],
+      "discipline": "operations/computing",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [
+        "JCR/CAS Q1-tier"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "china-public-administration-review",
+      "name": "公共管理评论",
+      "aliases": [],
+      "discipline": "public-admin",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "chinese-public-administration",
+      "name": "Chinese Public Administration",
+      "aliases": [
+        "中国行政管理"
+      ],
+      "discipline": "public-admin",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "JCR/CAS Q1-tier"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "governance-journal",
+      "name": "Governance Journal",
+      "aliases": [],
+      "discipline": "public-admin",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "governance-studies",
+      "name": "治理研究",
+      "aliases": [],
+      "discipline": "public-admin",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-public-administration-research-and-theory",
+      "name": "Journal of Public Administration Research and Theory",
+      "aliases": [],
+      "discipline": "public-admin",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "public-administration-and-policy-review",
+      "name": "公共管理与政策评论",
+      "aliases": [],
+      "discipline": "public-admin",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "public-administration-review",
+      "name": "Public Administration Review",
+      "aliases": [],
+      "discipline": "public-admin",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-policy-analysis-and-management",
+      "name": "Journal of Policy Analysis and Management",
+      "aliases": [],
+      "discipline": "public-policy",
+      "region": "international",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "asia-pacific-economic-review",
+      "name": "亚太经济",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "auditing-and-economics-research",
+      "name": "审计与经济研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "auditing-research",
+      "name": "审计研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "bulletin-of-chinese-academy-of-sciences",
+      "name": "中国科学院院刊",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "business-management-journal",
+      "name": "经济管理",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "china-economic-studies",
+      "name": "中国经济问题",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "china-soft-science",
+      "name": "中国软科学",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "chinese-journal-of-management",
+      "name": "管理学报",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "comparative-economic-and-social-systems",
+      "name": "经济社会体制比较",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "contemporary-economy-of-japan",
+      "name": "现代日本经济",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "e-government",
+      "name": "电子政务",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "east-china-economic-management",
+      "name": "华东经济管理",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "economic-aspects",
+      "name": "经济纵横",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "economic-problems",
+      "name": "经济问题",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "economic-review-cn",
+      "name": "经济评论",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "economic-science",
+      "name": "经济科学",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "economist-cn",
+      "name": "经济学家",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "foreign-economics-and-management",
+      "name": "外国经济与管理",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "forum-on-science-and-technology-in-china",
+      "name": "中国科技论坛",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "industrial-economics-research",
+      "name": "产业经济研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "inquiry-into-economic-issues",
+      "name": "经济问题探索",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "issues-in-agricultural-economy",
+      "name": "农业经济问题",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-agrotechnical-economics",
+      "name": "农业技术经济",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "CSCD"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-business-economics",
+      "name": "商业经济与管理",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-industrial-engineering-and-engineering-management",
+      "name": "管理工程学报",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-international-trade",
+      "name": "国际贸易问题",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-macro-quality-research",
+      "name": "宏观质量研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-public-management",
+      "name": "公共管理学报",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-zhongnan-university-of-economics-and-law",
+      "name": "中南财经政法大学学报",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "macroeconomics",
+      "name": "宏观经济研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "modern-economic-science",
+      "name": "当代经济科学",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "nankai-economic-studies",
+      "name": "南开经济研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "reform",
+      "name": "改革",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "reform-of-economic-system",
+      "name": "经济体制改革",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "research-and-development-management",
+      "name": "研究与发展管理",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "research-on-economics-and-management",
+      "name": "经济与管理研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "science-and-technology-progress-and-policy",
+      "name": "科技进步与对策",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "science-of-science-and-management-of-st",
+      "name": "科学学与科学技术管理",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "science-research-management",
+      "name": "科研管理",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "scientific-decision-making",
+      "name": "科学决策",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "scientific-management-research",
+      "name": "科学管理研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "securities-market-herald",
+      "name": "证券市场导报",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "shanghai-journal-of-economics",
+      "name": "上海经济研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "social-security-studies",
+      "name": "社会保障评论",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "soft-science",
+      "name": "软科学",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "south-china-journal-of-economics",
+      "name": "南方经济",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "studies-in-science-of-science",
+      "name": "科学学研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "systems-engineering-theory-and-practice",
+      "name": "系统工程理论与实践",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "tax-research",
+      "name": "税务研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "world-economic-papers",
+      "name": "世界经济文汇",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "world-economic-studies",
+      "name": "世界经济研究",
+      "aliases": [],
+      "discipline": "social-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "social-sciences-in-china",
+      "name": "Social Sciences in China",
+      "aliases": [
+        "中国社会科学"
+      ],
+      "discipline": "social-science (general)",
+      "region": "china",
+      "tier_bucket": "中文综合顶刊",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "theory/argumentative",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "sociological-studies",
+      "name": "Sociological Studies",
+      "aliases": [
+        "社会学研究"
+      ],
+      "discipline": "sociology",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "mixed",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "china-sport-science",
+      "name": "体育科学",
+      "aliases": [],
+      "discipline": "sport-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI",
+        "中文核心"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-chengdu-sport-university",
+      "name": "成都体育学院学报",
+      "aliases": [],
+      "discipline": "sport-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-shenyang-sport-university",
+      "name": "沈阳体育学院学报",
+      "aliases": [],
+      "discipline": "sport-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "journal-of-sports-research",
+      "name": "体育学研究",
+      "aliases": [],
+      "discipline": "sport-science",
+      "region": "china",
+      "tier_bucket": "field",
+      "labels": [
+        "CSSCI"
+      ],
+      "lane": "empirical",
+      "source": "awesome-journal-skills-catalog"
+    },
+    {
+      "id": "investment-research-cn",
+      "name": "投资研究",
+      "aliases": [],
+      "discipline": "finance",
+      "region": "china",
+      "tier_bucket": null,
+      "labels": [],
+      "lane": null,
+      "source": "curated"
+    }
+  ]
+}

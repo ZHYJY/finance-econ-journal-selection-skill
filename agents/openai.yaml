@@ -1,0 +1,13 @@
+interface:
+  display_name: 金融经济论文选刊
+  short_description: 核实期刊定位与投稿政策，结合金融经济方法和院校要求制定投稿顺序
+  default_prompt: 请用 $select-finance-econ-journals 根据我的论文摘要、方法、目标和约束，检索核实候选期刊并制定投稿路线。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
